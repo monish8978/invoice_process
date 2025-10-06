@@ -27,5 +27,7 @@ The API can parse invoice images uploaded directly or via a URL and returns key 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/invoice-parser-api.git
-cd invoice-parser-api
+git clone https://github.com/yourusername/invoice_process.git
+cd invoice_process
+chmod +x create_env.sh
+./create_env.sh
